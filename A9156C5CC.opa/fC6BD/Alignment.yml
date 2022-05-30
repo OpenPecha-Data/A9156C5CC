@@ -1,0 +1,19 @@
+segment_sources:
+  I0781CCB8:
+    type: origin_type
+    relation: translation
+    language: en
+  I4364458B:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5ef61e5be7ce4593a1eda3ecb7e8d39b:
+    I0781CCB8: 002a2cc55f2d45c3a2f0bd220342094d
+    I4364458B: cb2bf0e8e8fb43c89b60fc381dbfb765
+  90fb7b9bc4bc4083ba5dd4c8a4df3505:
+    I0781CCB8: 02976146ae534c50b4aa068bc2151062
+    I4364458B: 3f107e578bcd477eb94d871e5f3d9744
+  4a357ad63d0e454d805e0d4e20c39778:
+    I0781CCB8: 262fe8e2d9784cbf9cb297704a8eb33a
+    I4364458B: 49ba64534c0c4c0a988fcba836911c57
